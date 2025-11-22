@@ -1,0 +1,43 @@
+1. What is Configuration Mangement? 
+2. What is Ansible?
+3. Difference Between Ansible vs Chef vs Puppet?
+4. Explain Ansible Architecture?
+5. What is Playbook? & What is structure of Playbook ?
+6. What is Play?
+7. Diff Btw Play & Playbook in Ansible?
+8. What is Tasks?
+9. What are modules in Ansible ? Core Module & Extras Modules
+10.What is Ansible Inventory and its types?
+11.What is Ansible Vault ? 
+12.What is Ad-hoc command in Ansible ?
+13.What is Roles in Ansible?
+14.What is Ansible Galaxy?
+15.What are Handlers & How it Works?
+16.Diff btw PlayBook & Roles in Ansible?
+17.Adv & Dis of Ansible ?
+18.What is Ansible Tower & How it Works?
+19.What is idempotency?
+=========================================================
+
+ What is command to create a file & Directory with Permission using ad-hoc command in Ansible
+ What is the command to create a user in Ansible and add the user in grp?
+ How will you create a encrypted files with Ansible?
+ What is the command to check the used modules in your playbook?
+ How can you access a list of Ansible_Variables?
+ Write playbook for Apache & Nginx?
+ How you will copy files recursively onto a target host?
+ Diff btw Vars & set_fact?
+ Diff btw Default & Vars?
+ gather facts in Ansible?
+ Ansible Shell Module vs Command Module?
+ Ansible Copy module vs template module?
+ Diff btw copy & Fetch module in Ansible?
+ Diff btw synchronize vs copy?
+ What is Debug Module in Ansible?
+ How to use file module in ansible?
+ How will you create a directory if it does not exist?
+ What is lineinfile module?
+ Archive module?
+ ansible become vs become_user?
+ 
+ 
